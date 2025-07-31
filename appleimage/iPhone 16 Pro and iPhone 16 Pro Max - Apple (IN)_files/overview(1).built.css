@@ -1,0 +1,224 @@
+@media (max-width: 734px) {
+	.viewer-sizenav-item {
+		text-align: center;
+	}
+	.viewer-sizenav-label {
+		padding: 0 10px;
+		font-size: 13px;
+		line-height: 16px;
+	}
+}
+br.large {
+	display: block;
+}
+@media (max-width: 1068px) {
+	br.large {
+		display: none;
+	}
+}
+@media (max-width: 734px) {
+	br.large {
+		display: none;
+	}
+}
+br.medium {
+	display: none;
+}
+@media (max-width: 1068px) {
+	br.medium {
+		display: block;
+	}
+}
+@media (max-width: 734px) {
+	br.medium {
+		display: none;
+	}
+}
+
+br.small {
+	display: none;
+}
+@media (max-width: 1068px) {
+	br.small {
+		display: none;
+	}
+}
+@media (max-width: 734px) {
+	br.small {
+		display: block;
+	}
+}
+.hide {
+	display: none;
+}
+
+.ric-modal .footnotes a {
+	color: #fff;
+}
+
+.ric-modal .footnote-1 a {
+	color: #6e6e73;
+}
+
+section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+	background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_large.jpg);
+}
+
+@media (min-resolution: 1.5dppx), (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_large_2x.jpg);
+	}
+}
+
+@media (min-width: 1441px) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_xlarge.jpg);
+	}
+}
+
+@media (min-width: 1441px) and (min-resolution: 1.5dppx), (min-width: 1441px) and (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_xlarge_2x.jpg);
+	}
+}
+
+@media (max-width: 1068px) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_medium.jpg);
+	}
+}
+
+@media (max-width: 1068px) and (min-resolution: 1.5dppx), (max-width: 1068px) and (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_medium_2x.jpg);
+	}
+}
+
+@media (max-width: 734px) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_small.jpg);
+	}
+}
+
+@media (max-width: 734px) and (min-resolution: 1.5dppx), (max-width: 734px) and (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_small_2x.jpg);
+	}
+}
+
+@media (max-width: 480px) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_xsmall.jpg);
+	}
+}
+
+@media (max-width: 480px) and (min-resolution: 1.5dppx), (max-width: 480px) and (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-dynamic-island .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/dynamic_island__ecff9fvmu4wi_xsmall_2x.jpg);
+	}
+}
+
+section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+	background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_large.jpg);
+}
+
+@media (min-resolution: 1.5dppx), (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_large_2x.jpg);
+	}
+}
+
+@media (min-width: 1441px) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_xlarge.jpg);
+	}
+}
+
+@media (min-width: 1441px) and (min-resolution: 1.5dppx), (min-width: 1441px) and (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_xlarge_2x.jpg);
+	}
+}
+
+@media (max-width: 1068px) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_medium.jpg);
+	}
+}
+
+@media (max-width: 1068px) and (min-resolution: 1.5dppx), (max-width: 1068px) and (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_medium_2x.jpg);
+	}
+}
+
+@media (max-width: 734px) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_small.jpg);
+	}
+}
+
+@media (max-width: 734px) and (min-resolution: 1.5dppx), (max-width: 734px) and (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_small_2x.jpg);
+	}
+}
+
+@media (max-width: 480px) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_xsmall.jpg);
+	}
+}
+
+@media (max-width: 480px) and (min-resolution: 1.5dppx), (max-width: 480px) and (min-resolution: 144dpi) {
+	section.section-upgrade .inline-compare-wrap .inline-wrap .compare-tile-ceramic-shield .upgrade-picture-wrap .bg-upgrade-image.ready-to-load {
+		background-image: url(/in/iphone-16-pro/images/overview/product-stories/upgrade/inline-compare/ceramic_shield__f9vl6nb5j9ym_xsmall_2x.jpg);
+	}
+}
+@media (max-width: 734px) {
+	.milestone-secondary {
+		padding: 0 20px;
+	}
+}
+.section-apple-intelligence .overview-apple-intelligence-productivity-notifications {
+	background-image: url(/in/iphone-16-pro/images/overview/apple-intelligence/productivity_notifications__cyc0vjsn76gm_large.jpg);
+}
+
+@media (min-resolution: 1.5dppx), (min-resolution: 144dpi) {
+	.section-apple-intelligence .overview-apple-intelligence-productivity-notifications {
+		background-image: url(/in/iphone-16-pro/images/overview/apple-intelligence/productivity_notifications__cyc0vjsn76gm_large_2x.jpg);
+	}
+}
+
+@media (max-width: 480px) {
+	.section-apple-intelligence .overview-apple-intelligence-productivity-notifications {
+		background-image: url(/in/iphone-16-pro/images/overview/apple-intelligence/productivity_notifications__cyc0vjsn76gm_xsmall.jpg);
+	}
+}
+
+@media (max-width: 480px) and (min-resolution: 1.5dppx), (max-width: 480px) and (min-resolution: 144dpi) {
+	.section-apple-intelligence .overview-apple-intelligence-productivity-notifications {
+		background-image: url(/in/iphone-16-pro/images/overview/apple-intelligence/productivity_notifications__cyc0vjsn76gm_xsmall_2x.jpg);
+	}
+}
+.section-apple-intelligence .overview-apple-intelligence-express-clean-up {
+	background-image: url(/in/iphone-16-pro/images/overview/apple-intelligence/express_clean_up__bh8okd58kr9e_large.jpg);
+}
+
+@media (min-resolution: 1.5dppx), (min-resolution: 144dpi) {
+	.section-apple-intelligence .overview-apple-intelligence-express-clean-up {
+		background-image: url(/in/iphone-16-pro/images/overview/apple-intelligence/express_clean_up__bh8okd58kr9e_large_2x.jpg);
+	}
+}
+
+@media (max-width: 480px) {
+	.section-apple-intelligence .overview-apple-intelligence-express-clean-up {
+		background-image: url(/in/iphone-16-pro/images/overview/apple-intelligence/express_clean_up__bh8okd58kr9e_xsmall.jpg);
+	}
+}
+
+@media (max-width: 480px) and (min-resolution: 1.5dppx), (max-width: 480px) and (min-resolution: 144dpi) {
+	.section-apple-intelligence .overview-apple-intelligence-express-clean-up {
+		background-image: url(/in/iphone-16-pro/images/overview/apple-intelligence/express_clean_up__bh8okd58kr9e_xsmall_2x.jpg);
+	}
+}

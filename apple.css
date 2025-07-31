@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+    font-family: 'San Francisco', Helvetica, Arial, san-serif;;
+}
+ul{
+    display: flex;
+    margin-left:220px ;
+    margin-top: -6px;
+}
+li{
+    padding: 20px;
+    font-size: 12px;
+    list-style: none;
+}
+.logo{
+    height:15px ;
+    width: 13px;
+   margin-top: -2px;
+}
+.ios{
+    height: 30px;
+    width: 30px;
+    margin-top: 16px;}
+.tag{
+    height: 30px;
+    width: 30px;
+    margin-top: 16px;
+}
+.navi{
+    margin-left: 240px;
+}
+.navigation{
+    margin-top: -25px;
+    background-color:whitesmoke;
+}
+.hii{
+    margin-left: 50px;
+}
+.list{
+    padding: 25px;
+}
+.pods{
+    margin-top: 23px;
+    height: 22px;
+}
+img{
+    height: 45px;
+}
+.text1{
+    font-size: 70px;
+   margin-left: 90px;
+   margin-top: 100px;
+}
+.text2{
+    margin-left: 840px;
+    font-size: 28px;
+    margin-top: 140px;
+}
+.text3{
+    font-size: 50px;
+    margin-left: 110px;
+}
+.sec1{
+    display: flex;
+}
+video{
+    width: 85%;
+    height: 40%;
+    border-radius: 40px;
+    margin-left: 120px;
+}
+header{
+    background-color: whitesmoke;
+}
+.image3{
+    display: flex;
+    margin-left: 150px;
+}
+.img1{
+    height: 740px;
+    border-radius: 40px;
+    margin-left: 30px;
+}
+.ai{
+    position: absolute;
+    color: white;
+    left: 205px;
+    top: 1420px;
+}
+.ai1{
+    position: absolute;
+    color: white;
+    left: 205px;
+    top: 1440px;
+    font-size: 28px;
+}
+.ai2{
+     position: absolute;
+    color: white;
+    left: 605px;
+    top: 1420px;
+}
+.ai3{
+     position: absolute;
+    color: white;
+    left: 605px;
+    top: 1440px;
+    font-size: 28px;
+}
+.ai4{
+         position: absolute;
+    color: white;
+    left: 1010px;
+    top: 1420px;
+}
+.ai5{
+         position: absolute;
+    color: white;
+    left: 1010px;
+    top: 1440px;
+    font-size: 28px;
+}
+.img2{
+    height: 300px;
+}
+.images{
+    display: flex;
+    justify-content:space-evenly ;
+}
+.image{
+    text-align: center;
+    align-items: center;
+}
+.price{
+   font-size: 30px;
+}
+button{
+    height:40px;
+    width: 120px;
+    background-color: rgb(33, 108, 236);
+    border-radius: 20px;
+    color: white;
+}
+.img3{
+    height: 700px;
+    width: 1270px;
+    border-radius: 30px;
+    margin-left: 120px;
+}
+.privacy{
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.sec4{
+    position: relative;
+}
+.img4{
+   position: absolute;
+    top: 400px;
+    left: 370px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+}
+.Learn{
+     height:40px;
+    width: 120px;
+    background-color: rgb(33, 108, 236);
+    border-radius: 20px;
+    color: white;
+    position: absolute;
+     top: 470px;
+    left: 400px;
+}
+.sec4:hover{
+    transform:scale(1.05);
+    transition: 1s;
+}
+.image:hover{
+    transform:scale(1.05);
+    transition: 1s;
+}
+.img1:hover{
+    transform:scale(1.05);
+    transition: 1s;
+    z-index: 1;
+}
+.sec2{
+    /* position: relative; */
+
+}
+.image3{
+    /* position: relative; */
+
+}
+
